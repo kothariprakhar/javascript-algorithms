@@ -1,6 +1,8 @@
 import LinkedListNode from './LinkedListNode';
 import Comparator from '../../utils/comparator/Comparator';
 
+// Hi this is linked list
+
 export default class LinkedList {
   /**
    * @param {Function} [comparatorFunction]
